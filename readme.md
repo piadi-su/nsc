@@ -5,7 +5,7 @@
 ----
 
 things to implement
-[+] multi-thread
-[+] banner grabbing
-[+] better error handling
-[+] outpuing in a file
+- [ ] multi-thread
+- [ ] banner grabbing
+- [ ] better error handling
+- [ ] outpuing in a file
