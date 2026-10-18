@@ -15,4 +15,5 @@ typedef struct {
 void scan(int range_p, int verbose, int fast_mode, char ip[32]);
 void add_port(Report *r, int port);
 void print_report(Report *r, char ip[32]);
+
 #endif
